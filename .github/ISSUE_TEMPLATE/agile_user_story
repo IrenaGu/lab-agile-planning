@@ -21,3 +21,28 @@ A product backlog is a ranked list of all unimplemented stories.
 Stories high in the ranking should have more detail than those that are lower. 
 
 Create stories using the "As a", "I need", "So that" template to ensure everyone understands who it benefits and the business value it provides.
+
+
+用户故事记录了一个人请求某项功能以实现目标的过程。
+
+使用模板有助于确保故事完整。
+
+定义“完成”有助于最大限度地减少误解。
+
+使用 INVEST 首字母缩略词来记住优秀用户故事的品质：独立、可协商、有价值、可估计、小巧和可测试。
+
+史诗可用于捕捉大创意。
+
+故事点是用于估计实现给定用户故事的难度的指标。
+
+故事点是相对的，就像 T 恤尺码一样。
+
+您必须就“平均”的含义达成一致。
+
+您永远不应将故事点等同于挂钟时间。
+
+产品待办事项是所有未实现故事的排名列表。
+
+排名靠前的故事应该比排名靠后的故事更详细。
+
+使用“作为”、“我需要”、“因此”模板创建故事，以确保每个人都了解它对谁有益以及它提供的商业价值。
