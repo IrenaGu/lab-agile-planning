@@ -46,3 +46,18 @@ Create stories using the "As a", "I need", "So that" template to ensure everyone
 排名靠前的故事应该比排名靠后的故事更详细。
 
 使用“作为”、“我需要”、“因此”模板创建故事，以确保每个人都了解它对谁有益以及它提供的商业价值。
+
+Stories from the Lesson:
+
+Title: Need a service that has a counter
+
+As a User, I need a service that has a counter, So that I can keep track of how many times something was done.
+Title: Must allow multiple counters
+
+As a User, I need to have multiple counters, So that I can keep track of several counts at once.
+Title: Must persist counter across restarts
+
+As a Service Provider, I need the service to persist the last known count, So that users don’t lose track of their counts after the service is restarted.
+Title: Counters can be reset
+
+As a System Administrator, I need the ability to reset the counter, So that I can redo counting from the start.
